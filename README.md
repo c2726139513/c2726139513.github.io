@@ -1,3 +1,5 @@
-# Minimalism demo
+# 感谢
 
-This is the demo of Jekyll theme minimalism, you can find out how to config and use this theme.
+本博客使用jekyll构建，用的是[minimalism](https://github.com/showzeng/Minimalism)主题
+
+在此感谢!!
